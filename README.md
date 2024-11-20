@@ -4,6 +4,7 @@ Hi there! 👋 I'm **Jenifa Mehjabin**, a data science enthusiast and web develo
 
 ---
 
+
 ## 🌟 About Me
 - 🎓 Recent graduate in Geography, now pursuing MCA (3rd semester).
 - 🌱 Currently learning **React**, **Machine Learning**, and **Data Analytics**.
